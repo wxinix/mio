@@ -1,5 +1,4 @@
-/* Copyright 2017 https://github.com/mandreyel
- *
+/* Copyright 2020 Wuping Xin
  * Permission is hereby granted, free of charge, to any person obtaining a copy of this
  * software and associated documentation files (the "Software"), to deal in the Software
  * without restriction, including without limitation the rights to use, copy, modify,
@@ -18,7 +17,7 @@
  * OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-/* Copyright 2019 https://github.com/wxinix , forked on Sept 17, 2019
+/* Copyright 2017 https://github.com/mandreyel *
  * Permission is hereby granted, free of charge, to any person obtaining a copy of this
  * software and associated documentation files (the "Software"), to deal in the Software
  * without restriction, including without limitation the rights to use, copy, modify,
